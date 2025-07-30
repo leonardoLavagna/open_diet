@@ -1,4 +1,4 @@
-# open_diet_2025
+# open_diet
 Simulating Classical and Quantum Walks with an Arduino-Based LED System: a project for the event [Open DIET 2025](https://diet.web.uniroma1.it/en/node/6883).
 
 ## Equipment
