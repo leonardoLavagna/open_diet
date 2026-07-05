@@ -12,7 +12,7 @@ To carry out this project we need:
 - Jumper wires (included in the Arduino Uno R3 Kit).
 
 ## Connection scheme
-We need to connect the Arduino to a laptop with the USB cable in order to execute custom programs and also to power te system, then connect Arduino to the LED strip via the Breadbord where the button is placed in order to turn on and of the LEDs. The connection scheme is shown below.
+We need to connect the Arduino to a laptop with the USB cable in order to execute custom programs and also to power the system, then connect Arduino to the LED strip via the Breadbord where the button is placed in order to turn on and of the LEDs. The connection scheme is shown below.
 - Connect the positive side of the Breadboard to 5V of Arduino;
 - Connect the negative side of the Breadboard to GND (ground) of Arduino;
 - Connect the LED power (5V) to the positive side of the Breadboard;
